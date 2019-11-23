@@ -1,3 +1,3 @@
 # Problems
 
-Repository of all problems solved by me thus far.
+Solving problems cleanly.
